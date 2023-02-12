@@ -1,0 +1,6 @@
+Markup
+Components
+HOC
+Routes
+File organization
+External style libraries
